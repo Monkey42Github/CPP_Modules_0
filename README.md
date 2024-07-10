@@ -19,3 +19,9 @@ Run the exercises:
 ```sh
 ./exercise_name arguments
 ```
+Replace exercise_name with megaphone, phonebook, or dreamjob based on the exercise you want to run.
+
+## Notes
+- **Follow the instructions provided in each exercise directory.**
+- **Ensure proper formatting and adherence to C++98 standards.**
+- **For any issues or queries, contact the project contributors.**
