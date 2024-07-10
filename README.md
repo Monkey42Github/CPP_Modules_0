@@ -1,4 +1,4 @@
-### C++ - Module 00
+## C++ - Module 00
 ## Overview
 This repository contains exercises from Module 00 of the C++ modules at 42. The exercises focus on fundamental concepts such as namespaces, classes, member functions, stdio streams, initialization lists, static, const, and more.
 
